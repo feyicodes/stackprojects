@@ -116,4 +116,28 @@ Index.html is also created and added in the public directory.
 
 ![Image 22](meanimages/img22.png)
 
+I returned to the books dircetory and ran 
+
+```
+node server.js
+```
+sucessfully.
+
+![Image 23](meanimages/img23.png)
+
+I ran a curl command locally which returned an HTML page.
+
+![Image 24](meanimages/img24.png)
+
+I checked the website via the public domain IP and it was successful.
+
+![Image 25](meanimages/img25.png)
+
+I inputted the list of sample books to be displayed and it was successful.
+
+![Image 26](meanimages/img26.png)
+
+### Reflection
+
+The MEAN stack project is quite straightforward. The continuous learning approach from LEMP, LAMP, MERN stacks has made me more comfortable with implementing stacks. Looking forward to more challenges.
 
